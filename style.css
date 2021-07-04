@@ -29,6 +29,15 @@ h2{
     border-radius: 5px;
     font-weight: 700;
 }
+.hire-button:hover{
+    color: #b20a2c;
+    background-image: linear-gradient(#F56217,#0B486B);
+    
+}
+.hire-button:active{
+    color: #DAE2F8;
+    background-image: linear-gradient(#1CD8D2,#B5AC49);
+}
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
