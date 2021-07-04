@@ -51,11 +51,17 @@ div p{
 .experience{
     
     box-shadow: 10px 10px 40px gray;
+    border-top-right-radius: 5px;
     margin: 5%;
     margin-right: 5%;
     padding: 10px 20px;
     width: 40%;
-    padding-left: 3%   
+    padding-left: 3%  
+     
+}
+.experience:hover{
+    background-image: linear-gradient(#005AA7,#FFFDE4) ;
+    color: #605C3C;
 }
 
 #Full-Stack-Web-Developer{
@@ -71,4 +77,5 @@ div p{
 }
 footer p{
     text-align: center;
+    color: #544a7d;
 }
